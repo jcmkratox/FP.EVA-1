@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA_1_2_DATOS"/>
+        <attribute name="authors" value="jcmkr"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 06:11:10 p. m."/>
+        <attribute name="created" value="amNta3I7REVTS1RPUC1VNktSQTNUOzIwMjUtMDgtMjY7MDY6MDQ6MTEgcC4gbS47MzA4Mw=="/>
+        <attribute name="edited" value="amNta3I7REVTS1RPUC1VNktSQTNUOzIwMjUtMDgtMjY7MDY6MTE6MTAgcC4gbS47MTszMTg4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;joaquin carbajal&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="&quot;true&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
